@@ -1,3 +1,4 @@
-s = "sumit" 
-s = s*10
-print (s[::-1])
+s = "123456" 
+s = s*2
+s = s[::-1] 
+print (s.split())
