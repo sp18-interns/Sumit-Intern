@@ -1,0 +1,10 @@
+#a = [123456, 65589]
+#a.reverse()
+#print (a)
+
+a = 100000000087683763284
+a = hex(a)
+print (a)
+
+b = int(a, 16)
+print (b)
