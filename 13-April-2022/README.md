@@ -1,7 +1,9 @@
-# Date 12-April-2022
+# Date 13-April-2022
 ## First Half
  - Reading
 	- Methods & Function
+	- Modules & Packages
+	- Error Handling
 		
   
 ### Videos
