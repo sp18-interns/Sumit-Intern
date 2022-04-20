@@ -29,6 +29,8 @@
 
 - Added more functions to add behaviour to Pizza.
 
-### Doubts
+### Handson 
+ - i make some functions and all function will be triggered by on test file which shows output
 
 ## Links Read
+ - https://www.cs.rpi.edu/~sibel/csci1100/fall2017/lecture_notes.html
