@@ -9,7 +9,3 @@
 #     return (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
 
 # print(is_leap(year))
-number = int(input('Enter the number: '))
-def even_or_odd(number):
-    return (number % 2 == 0)
-print(even_or_odd(number))
