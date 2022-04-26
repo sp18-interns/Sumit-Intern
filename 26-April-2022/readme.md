@@ -20,8 +20,8 @@ Date 26-April-2022
 
 # Second Half
 
-    Continue
+    Continue With Project
 
 # Assignment
 
-    - Task Project Assigned (Elevator)
+    - Same as Above
