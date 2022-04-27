@@ -22,8 +22,8 @@ Date 27-April-2022
   - Function block 
 
 # Links Read
-    - [OPPS lecture](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/7a6f85d03f132dcd9d7592bc4643be1c_MIT6_0001F16_Lec8.pdf)
-    - [Classes](https://www.cs.rpi.edu/~sibel/csci1100/fall2017/lecture_notes/lec18_classes1.html)
+    - .[OPPS lecture](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/7a6f85d03f132dcd9d7592bc4643be1c_MIT6_0001F16_Lec8.pdf)
+    - .[Classes](https://www.cs.rpi.edu/~sibel/csci1100/fall2017/lecture_notes/lec18_classes1.html)
 
 # Second Half
 
