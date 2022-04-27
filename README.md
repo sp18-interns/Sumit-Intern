@@ -20,3 +20,4 @@
 - [Date 22-April-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/22-April-2022)
 - [Date 25-April-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/25-April-2022)
 - [Date 26-April-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/26-April-2022)
+- [Date 27-April-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/27-April-2022)
