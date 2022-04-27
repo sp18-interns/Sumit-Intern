@@ -2,12 +2,12 @@
 
  - Requirment
  
- Use case which i use 
-    1-The elevator is capable of moving up and down.
-    2-It is stopping at each floor. 
-    3-It moves to that floor when the target floor no is pressed.
-    4-It moves up when called from upward and down when called from downward.
-    5-fan is working on pressing the respective button 
+ Use case which i use
+  - 1.The elevator is capable of moving up and down.
+  - 2.It is stopping at each floor. 
+  - 3.It moves to that floor when the target floor no is pressed.
+  - 4.It moves up when called from upward and down when called from downward.
+  - 5.fan is working on pressing the respective button 
  
  
  - Use Cases Should Be in program
