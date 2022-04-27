@@ -8,6 +8,7 @@
   - 3.It moves to that floor when the target floor no is pressed.
   - 4.It moves up when called from upward and down when called from downward.
   - 5.fan is working on pressing the respective button 
+  - 6.anyone can call the elevator by pressing the up or down button on any floor, and can select a target floor by pressing the button for that floor on the panel in the lift
  
  
  - Use Cases Should Be in program
