@@ -1,4 +1,5 @@
 # Elevator 
+<<<<<<< HEAD
 
 
  - My Task is to implement the __Elevator__ or Lift in Python using OOPS.
@@ -15,7 +16,16 @@
 
 
 
+=======
+ - Defination - Elevator, also called lift, car that moves in a vertical shaft to carry passengers or freight between the levels of a multistory building
+ 
+ 
+>>>>>>> 25a3e88208664ce9a360315244cba0d2f1086474
  - Requirment
+   - Evlevator Cabin
+   - User
+   - Buliding
+   - Mechanisam 
  
  Use case which i use
   - 1.The elevator is capable of moving up and down.
