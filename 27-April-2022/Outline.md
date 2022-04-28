@@ -3,6 +3,10 @@
  
  
  - Requirment
+   - Evlevator Cabin
+   - User
+   - Buliding
+   - Mechanisam 
  
  Use case which i use
   - 1.The elevator is capable of moving up and down.
