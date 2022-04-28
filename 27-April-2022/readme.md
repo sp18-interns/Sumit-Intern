@@ -16,10 +16,12 @@ Date 27-April-2022
   - Using Loops
   - Using Methods
   - basic Structuring
+  - Statements
 
 # Hard block 
   - Writing Methods on Class 
   - Function block 
+  - __Basic Structure of OOPS (Handson)__
 
 # Links Read
 
