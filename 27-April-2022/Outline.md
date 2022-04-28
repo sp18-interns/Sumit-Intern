@@ -1,5 +1,7 @@
 # Elevator 
-
+ - Defination - Elevator, also called lift, car that moves in a vertical shaft to carry passengers or freight between the levels of a multistory building
+ 
+ 
  - Requirment
  
  Use case which i use
