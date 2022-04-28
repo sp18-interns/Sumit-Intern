@@ -1,5 +1,20 @@
 # Elevator 
 
+
+ - My Task is to implement the __Elevator__ or Lift in Python using OOPS.
+
+# Project Description / Specification
+    1. Install the elevator in building
+    2. Input Check < True or False> 
+    3 . Each User starts from a random floor, and has a random destination floor.
+    4 . When all customers have reached their destination floor, the simulation is finished.
+
+
+
+
+
+
+
  - Requirment
  
  Use case which i use
@@ -30,3 +45,10 @@
     - lift doors can’t be open when the lift is moving down or upward 
     - lift doors are closed when no one is using it 
     - once the lift has crossed the specific floor and some person has to click to open the elevator, then lift should begin when the lift comes down.
+
+
+
+       TODO : keep problem defind in simple manner dont overload
+
+
+   25:75
