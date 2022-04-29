@@ -1,8 +1,8 @@
 Date 28-April-2022
 # First Half
 
-  - started reviseing OOPS Concept
-  - Paralally Started Basic Calculator
+  - Started revising OOPS Concept
+  - Parallely Started Basic Calculator
 
 # Videos
   - Mit OOPS
