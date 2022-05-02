@@ -1,4 +1,4 @@
-Date 28-April-2022
+Date 29-April-2022
 # First Half
 
   - Started revising OOPS Concept
@@ -12,11 +12,7 @@ Date 28-April-2022
 	Task Project Assigned (Elevator)
     
 # Doubts
-  - Function Writing
-  - Using Loops
-  - Using Methods
-  - basic Structuring
-  - Statements
+  - Low Level dessign
 
 # Hard block 
   - Writing Methods on Class 
