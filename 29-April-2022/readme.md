@@ -3,6 +3,7 @@ Date 29-April-2022
 
   - Started revising OOPS Concept
   - Parallely Started Basic Calculator
+  - Use of init
 
 # Videos
   - Mit OOPS
