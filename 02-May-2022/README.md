@@ -3,6 +3,7 @@
 
 ## First Half
  - Problem-Solving With HACKER Rank
+    - If_Else Statement (isWeird.py)
 
 
 
