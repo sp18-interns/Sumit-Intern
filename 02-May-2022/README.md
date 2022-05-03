@@ -4,6 +4,9 @@
 ## First Half
  - Problem-Solving With HACKER Rank
     - If_Else Statement (isWeird.py)
+    - Function is leap hacker rank
+## Reading
+ -Learn Python The Hard Way 3rd Edition.pdf
 
 
 
@@ -14,7 +17,7 @@
 
 
 ### Links Read
- -https://www.w3resource.com/python/python-string.php
+ -https://www.w3resource.com/python/topic
 
 
 
@@ -22,13 +25,9 @@
 
        - Python Object & data structure
        - string
-       - indexing and slicing
-       - properties & methods
-### Practice with Python file coding
-   - Ecape sequence.py
-   - memory id finding
-   - string functions (all function like length,count,endswith, capatilize find replace)
-   - test 0
-   - test 1
-   - test 2
-   - test 3
+       - function & method
+## Reading
+ - Learn Python The Hard Way 3rd Edition.pdf
+
+## Extra
+ - Analyzing Python-tutorial Code from Github SP18 Repo 
