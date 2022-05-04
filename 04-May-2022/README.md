@@ -3,15 +3,9 @@
 
 ### First Half
  - Problem-Solving With HACKER Rank
-    - If_Else Statement (isWeird.py)
-    - Function is leap hacker rank
 ### Reading
- -Learn Python The Hard Way 3rd Edition.pdf
+ -Learn Python The Hard Way 3rd Edition with python3 .pdf
 
-
-
-
-  
 ### Videos
 - Bootcamp
 
@@ -22,12 +16,12 @@
 
 
 ### Second Half
-
-       - Python Object & data structure
-       - string
-       - function & method
+### Assignment
+       - Calculator Program started
+       - Mukesh & me are working eith New assignment of Salary Calculation
+       - Salary program Discussed with Mukesh
 ### Reading
  - Learn Python The Hard Way 3rd Edition.pdf
 
 ### Extra
- - Analyzing Python-tutorial Code from Github SP18 Repo 
+ - Git activity
