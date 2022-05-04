@@ -8,5 +8,5 @@ def is_leap(year):
         leap = True
     return leap
 
-year = int(raw_input())
-print is_leap(year)
+year = int(input('please : '))
+print (is_leap(year))
