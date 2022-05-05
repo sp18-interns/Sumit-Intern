@@ -1,27 +1,24 @@
 class Employee:
-    count = 0
-
-    def __init__(self, name, post, salary):
+    def __init__(self, name, post, hours_worked, wage):
         self.name = name
         self.post = post
-        self.salary = salary
-        Employee.count += 1
+        self.hours_worked = hours_worked
+        self.wage = wage
 
-    def salary(self, hours_worked, wage):
-        if hours_worked > 40:
-            return 40 * wage + (hours_worked - 40) * wage * 1.5
+    def __str__(self):
+        return f'{self.salary()}'
+
+    def salary(self):
+        if self.hours_worked > 40:
+            return (f'{40 * self.wage + (self.hours_worked - 40) * self.wage * 1.5}')
         else:
-            return hours_worked * wage
+            return (f'The CTC is {self.hours_worked * self.wage}')
 
-
-    def displayCount(self):
-        print("There are %d employees" % Employee.count)
 
     def displayDetails(self):
-        print("Name:", self.name, ", Designation:", self.post, ", Salary:", self.salary)
-
+        print("Name:", self.name, ", Designation:", self.post, ", Salary:", self.salary())
 
 e1 = Employee("John", "Manager", 50, 800)
-e1.displayCount()
+print(e1)
 print("Details of all employee:")
 e1.displayDetails()
