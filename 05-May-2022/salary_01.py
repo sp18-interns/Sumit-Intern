@@ -1,12 +1,12 @@
 class Employee:
-    def __init__(self, name, post, hours_worked, wage):
+    def __init__(self, name, post, hours_worked, wage_hour):
         self.name = name
         self.post = post
         self.hours_worked = hours_worked
-        self.wage = wage
+        self.wage = wage_hour
 
     def __str__(self):
-        return f'{self.salary()}'
+        return f'{self.name(), self.post(),  self.salary()}'
 
     def salary(self):
         if self.hours_worked > 40:
