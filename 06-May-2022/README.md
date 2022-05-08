@@ -3,13 +3,10 @@
 
 ## First Half
  - Problem-Solving With HACKER Rank
-    - If_Else Statement (isWeird.py)
-    - Function is leap hacker rank
+  
 ## Reading
- -Learn Python The Hard Way 3rd Edition.pdf
-
-
-
+ - Learn Python The Hard Way 3rd Edition.pdf
+ - Reading Bootcamp OOPS
 
   
 ### Videos
@@ -19,7 +16,8 @@
 ### Links Read
  -https://www.w3resource.com/python/topic
 
-
+### Coding
+ - Coding with OOPS (Codes uploaded)
 
 ## Second Half
 
