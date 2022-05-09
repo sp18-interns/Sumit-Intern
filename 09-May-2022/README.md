@@ -5,7 +5,7 @@
  - List, Tuple, Dict (Reading)
  - Methods For list,tuple, dict (Handson)
  - OOPS- (Reading-Handson)
- - SQL (After Hour or For time-pass) __not continuing__ due to ubuntu error for sql server hardstoping
+ - SQL (After Hour or For time-pass) __Hardstoping__
  - Problem-Solving With HACKER Rank & coding bat
  - will Discuss Salary Code with Mr.Mukesh
 
@@ -30,7 +30,7 @@
  -https://www.w3resource.com/python/topic
 
 ### Coding
- - Coding with OOPS (Codes uploaded)
+ - Coding with OOPS
 
 ## Second Half
 
