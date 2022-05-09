@@ -1,12 +1,22 @@
 # Sumit-Intern
 # Date 06-05-2022
 
+## Self Target 
+ - List, Tuple, Dict (Reading)
+ - Methods For list,tuple, dict (Handson)
+ - OOPS- (Reading-Handson)
+ - SQL (After Hour or For time-pass)
+ - Problem-Solving With HACKER Rank & coding bat
+ - will Discuss Salary Code with Mr.Mukesh
+
+
 ## First Half
  - Problem-Solving With HACKER Rank
+ - List, Tuple, Dict
   
 ## Reading
  - Learn Python The Hard Way 3rd Edition.pdf
- - Reading Bootcamp OOPS
+ - Reading Bootcamp
 
   
 ### Videos
