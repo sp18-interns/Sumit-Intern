@@ -19,7 +19,7 @@
  - Reading Bootcamp
 
 ## Doubts
- - if i use ## for i in range (1,11): ## this will print 1 to 10 
+ - if i use  __for i in range (1,11):__ this will print 1 to 10 
      - what is the loop for alphabet (i google it but found little bit confusing so hardstoping it)
      - [refer to code](https://github.com/sp18-interns/Sumit-Intern/blob/main/09-May-2022/Nested_list_example.py)
 ### Videos
