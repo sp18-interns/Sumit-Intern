@@ -1,5 +1,5 @@
 
-a = 2
 for i in range (1,11):
-    a= a+ 1
-    print (a, 'x', i , '=', a*i)
+    print("\n\n\nMULTIPLICATION TABLE FOR %d\n\n\n" %i)
+    for a in range (1,11):
+      print (i, 'x', a , '=', a*i)
