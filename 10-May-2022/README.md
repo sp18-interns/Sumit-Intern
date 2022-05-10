@@ -1,5 +1,5 @@
 # Sumit-Intern
-# Date 010-05-2022
+# Date 10-05-2022
 
 ## Self Target
  - Methods For list,if else statement & for loop (Handson)
@@ -18,7 +18,8 @@
  - Reading Bootcamp
 
 ## Doubts(Open)
- - Diffrence between __Print__ & __Return__(Hardstoped)
+ - Difference between __Print__ & __Return__ Googled it But confusing State not fully Satisfied about print vs return
+ - something i know but  ... (Hardstoped)
 
 
 ## Doubts(closed)
