@@ -5,12 +5,12 @@
  - Methods For list,if else statement & for loop (Handson)
  - OOPS- (Reading-Handson)
  - Rest API (Reading-Only)
- - Problem-Solving With HACKER Rank & coding bat
+ - Problem-Solving With coding bat
  - Hondson for Salary Code with Mr.Mukesh
 
 
 ## First Half
- - Problem-Solving With HACKER Rank
+ - Problem-Solving With 'Coding-Bat'
  - 
   
 ## Reading
