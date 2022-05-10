@@ -1,3 +1,4 @@
+import  string
 matrix = []
 
 for i in range(7):
@@ -10,6 +11,10 @@ for i in range(7):
 
 print(matrix)
 
-matrix = [[j for j in ('a', 'd')] for i in range(4)]
+matrix = [[j for j in (string.ascii_lowercase)] for i in range(1)]
+
+for i in range(0,26):
+	print(chr(i+65))
+	print(chr(i + 97))
 
 print(matrix)

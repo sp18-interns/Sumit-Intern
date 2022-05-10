@@ -1,25 +1,24 @@
 # Sumit-Intern
 # Date 010-05-2022
 
-## Self Target 
- - List, Tuple, Dict (Reading)
- - Methods For list,tuple, dict (Handson)
+## Self Target
+ - Methods For list,if else statement & for loop (Handson)
  - OOPS- (Reading-Handson)
- - SQL (After Hour or For time-pass) __Hardstoping__
+ - Rest API (Reading-Only)
  - Problem-Solving With HACKER Rank & coding bat
- - will Discuss Salary Code with Mr.Mukesh
+ - Hondson for Salary Code with Mr.Mukesh
 
 
 ## First Half
  - Problem-Solving With HACKER Rank
- - List, Tuple, Dict
+ - 
   
 ## Reading
  - Learn Python The Hard Way 3rd Edition.pdf
  - Reading Bootcamp
 
-## Doubts
- - if i use  __for i in range (1,11):__ this will print 1 to 10 
+## Doubts(closed)
+ - (Solved by Vishal sir & abrar Sir) (if i use  __for i in range (1,11):__ this will print 1 to 10 
      - what is the loop for alphabet (i google it but found little bit confusing so hardstoping it)
      - [refer to code](https://github.com/sp18-interns/Sumit-Intern/blob/main/09-May-2022/Nested_list_example.py)
 ### Videos
@@ -35,8 +34,7 @@
 ## Second Half
 
        - Python Object & data structure
-       - string
-       - function & method
+       - If else Statement & For loop
 ## Reading
  - Learn Python The Hard Way 3rd Edition.pdf
 
