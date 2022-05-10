@@ -17,6 +17,10 @@
  - Learn Python The Hard Way 3rd Edition.pdf
  - Reading Bootcamp
 
+## Doubts(Open)
+ - Diffrence between __Print__ & __Return__(Hardstoped)
+
+
 ## Doubts(closed)
  - (Solved by Vishal sir & abrar Sir) (if i use  __for i in range (1,11):__ this will print 1 to 10 
      - what is the loop for alphabet (i google it but found little bit confusing so hardstoping it)
