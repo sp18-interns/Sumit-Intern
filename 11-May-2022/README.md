@@ -1,27 +1,20 @@
 # Sumit-Intern
-
 # Date 11-05-2022
-
-# Sumit-Intern
-
-# Date 
-
 
 ## FIRST HALF
 
-- 🚧 
-- ✅
-- 🚫
+- ✅ Continuing Salary Calculator
 
 ## VIDEOS
-- 🚧 
+- ✅ Bootcamp Video
+- ✅ 
 - ✅
 - 🚫
 
 
 ## ASSIGNMENT
-- 🚧 
-- ✅
+- 🚧 Scientific Calculator is in progress
+- 🚧
 - 🚫
 
 
