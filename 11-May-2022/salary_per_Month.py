@@ -23,13 +23,3 @@ class Employee:
     def __str__(self):
         return f'{self.name}, Gross Salary :{self.salary()}, Deerness Allowance  :{self.deerness_allowance()}, Income ' \
                f'Tax: {self.income_tax()}, '  # if i don't use separate {} then error
-
-
-e1 = Employee("Vishal", 40)
-e2 = Employee("Sumit", 25)
-print(e1)
-print(e2)
-print(f'Hi {e1.name} Your DA is {e1.deerness_allowance()}')
-print(f'Hi {e1.name} Your IT is {e1.income_tax()}')
-print(f'Hi {e1.name} Your DA is {e2.deerness_allowance()}')
-print(f'Hi {e2.name} Your IT is {e2.income_tax()}')

@@ -8,7 +8,7 @@ class Employee:
         self.wage = wage_hour
 
     def salary(self):
-        if self.hours_worked >= 40:
+        if self.hours_worked >= 50:
             return f'(OT Included){40 * self.wage + (self.hours_worked - 40) * self.wage * 1.5}'
         else:
             return f' {self.hours_worked * self.wage}'
@@ -23,11 +23,3 @@ class Employee:
     def __str__(self):
         return f'{self.name}, Gross Salary :{self.salary()}, Deerness Allowance  :{self.deerness_allowance()}, Income ' \
                f'Tax: {self.income_tax()}, '  # if i don't use separate {} then error
-
-
-e1 = Employee("Vishal", 41, 2000)
-e2 = Employee("Sumit", 39, 2000)
-print(e1)
-print(e2)
-print(f'Hi {e1.name} Your DA is {e1.deerness_allowance()}')
-print(f'Hi {e2.name} Your DA is {e2.deerness_allowance()}')
