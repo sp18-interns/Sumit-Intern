@@ -4,6 +4,7 @@
 ## FIRST HALF
 
 - ✅ Continuing Salary Calculator
+- ✅ Coding Bat 
 
 ## VIDEOS
 - ✅ Bootcamp Video
@@ -25,7 +26,8 @@
 
 ## SECOND HALF
 - 🚧 Prepration for demo
-- [refer to code]()
+- [Code-Salary_calc_monthly_wages](https://github.com/sp18-interns/Sumit-Intern/blob/main/11-May-2022/salary_per_Month.py)
+- [Code-Salary_calc_hourly_wages](https://github.com/sp18-interns/Sumit-Intern/blob/main/11-May-2022/salary_per_hour.py)
 - ✅ Demo Done at 18:00 IST (tremendous Session With Vishal sir I am Satisfied with what i have done)
 - 🚧 Noted down further Proceeding for code Testing & Documentation
 
