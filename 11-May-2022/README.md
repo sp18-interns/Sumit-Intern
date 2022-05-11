@@ -9,8 +9,6 @@
 ## VIDEOS
 - ✅ Bootcamp Video
 - ✅ Bootcamp Docs
-- 
-
 
 ## ASSIGNMENT
 - 🚧 Scientific Calculator is in progress
@@ -42,14 +40,9 @@
 
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
-
 
 
 ## LINKS
 
-- 🚧 
-- ✅
 - 🚫
