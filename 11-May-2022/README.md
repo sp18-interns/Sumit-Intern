@@ -4,7 +4,7 @@
 ## FIRST HALF
 
 - ✅ Continuing Salary Calculator
-- ✅ Coding Bat 
+- ✅ [Coding Bat](https://github.com/sp18-interns/Sumit-Intern/tree/main/11-May-2022/Codng_Bat) 
 
 ## VIDEOS
 - ✅ Bootcamp Video
