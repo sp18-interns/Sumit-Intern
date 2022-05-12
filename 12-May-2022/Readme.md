@@ -33,7 +33,7 @@
 
 ## SECOND HALF 
 - ✅ Continuing SQL Session with Avinash Sir
-- ✅ Coding Bat
+- ✅ [Coding Bat](https://github.com/sp18-interns/Sumit-Intern/tree/main/12-May-2022/Codng_Bat)
 
 
 ## VIDEOS
