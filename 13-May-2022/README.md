@@ -29,7 +29,7 @@
 
 
 ## SECOND HALF
- - Rest API
+ - Rest API (Representational State Transfer)
  - Coding Bat
 
 ## VIDEOS
