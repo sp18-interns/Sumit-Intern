@@ -39,7 +39,7 @@
 
 
 ## ASSIGNMENT
-- 🚧 Documentation of SQl
+- 🚧 [Documentation of SQl](https://github.com/sp18-interns/Sumit-Intern/blob/main/16-May-2022/Hkr_Rnk_Cdng_Bt/SQL.md) 
 
 
 
@@ -49,6 +49,6 @@
 
 
 ## LINKS
-- ✅
+- ✅ https://www.w3schools.com/sql/default.asp
 
 
