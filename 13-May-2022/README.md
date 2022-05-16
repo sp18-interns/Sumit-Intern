@@ -29,38 +29,29 @@
 
 
 ## SECOND HALF
-
-
-
-
-
-
+ - Rest API
+ - Coding Bat
 
 ## VIDEOS
-- 🚧 
-- ✅
+
 - 🚫
 
 
 
 ## ASSIGNMENT
-- 🚧 
-- ✅
+
 - 🚫
 
 
 
 ## DOUBTS
-- 🚧 
-- ✅
-- 🚫
+
+- 🚫 Logic Building Problem (Will be solve by Lots of handson)
 
 
 
 ## LINKS
+  - [Rest Api](https://www.w3.org/2001/sw/wiki/REST)
 
-- 🚧 
-- ✅
-- 🚫
 
 
