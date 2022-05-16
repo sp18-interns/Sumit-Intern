@@ -4,25 +4,21 @@
 
 
 ## FIRST HALF
-
-- ✅ Started revising OOPS with Python . Done 
+- ✅ Setup New Machine Development environment   
+- ✅ Started revising OOPS with Python . Done
+- ✅ Hacker Rank- Problem-Solving Previous & new
 
 ## VIDEOS
-- 🚧 
-- ✅
-- 🚫
+ 
+- ✅ Boot Camp
 
 
-## ASSIGNMENT
-- 🚧 
-- ✅
+## ASSIGNMENT 
 - 🚫
 
 
 ## DOUBTS
-- 🚧 
-- ✅
-- 🚫
+- 🚫 No
 
 
 ## LINKS
@@ -31,37 +27,28 @@
 
 
 ## SECOND HALF
-- 🚧 
-- ✅
-- 🚫
+- ✅ Sql Documentation is in progress
+- ✅ Sql Started with Hands on
+
 
 
 
 ## VIDEOS
-- 🚧 
-- ✅
 - 🚫
 
 
 
 ## ASSIGNMENT
-- 🚧 
-- ✅
-- 🚫
+- 🚧 Documentation of SQl
 
 
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
 
 
 
 ## LINKS
-
-- 🚧 
 - ✅
-- 🚫
 
 
