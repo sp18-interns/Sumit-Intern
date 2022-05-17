@@ -3,22 +3,18 @@
 # Date 17-May-2022
 
 ## FIRST HALF
-
 - ✅ Theory of RDBMS
     - DBMS vs RDBMS
     - ERD digram for RDBMS because ERD is not present in DBMS
     - ACID it is an security feature -Atomicity, Consistency, Isolation and Durability security property.
 
 ## VIDEOS
-
 - 🚫
 
 ## ASSIGNMENT
-
 - 🚫
 
 ## DOUBTS
-
 - 🚫
 
 ## LINKS
@@ -36,28 +32,23 @@
 Reformat and rearrange code - Ctrl+Alt+Shift+L
 minimize maximize - Ctrl+Alt+ + or - (plus or minus)
 '''
-## VIDEOS
+- Use of 'arg'
+- Tuple to list
 
-- 🚧
-- ✅
-- 🚫
+
+## VIDEOS
+- ✅ BootCamp
 
 ## ASSIGNMENT
-
-- 🚧
-- ✅
-- 🚫
+- ✅ Started Unit Testing of assignment
+- ✅ Documentation of assignment
 
 ## DOUBTS
-
-- 🚧
-- ✅
-- 🚫
+- 🚫 No
 
 ## LINKS
-
-- 🚧
-- ✅
-- 🚫
+- ✅ [For shortcut](https://www.jetbrains.com/help/pycharm/reformat-and-rearrange-code.html#reformat_file)
+- ✅ [For unit testing](https://docs.python.org/3/library/unittest.html)
+- ✅ [Extra Reading](https://www.w3schools.com/python)
 
 
