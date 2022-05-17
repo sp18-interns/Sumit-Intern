@@ -27,10 +27,9 @@
 - ✅ [SQL vs MySQL](https://www.javatpoint.com/mysql-vs-sql)
 
 
-## SECOND HALF
-- 🚧 
-- ✅
-- 🚫
+## SECOND HALF 
+- ✅ Python Hands-on
+- Refer to code [Program_1](https://github.com/sp18-interns/Sumit-Intern/blob/main/17-May-2022/Inbuilt_Function.py)  [Program_2](https://github.com/sp18-interns/Sumit-Intern/blob/main/17-May-2022/sum_real_no.py)
 
 
 
