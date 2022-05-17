@@ -31,10 +31,11 @@
 - ✅ Python Hands-on
 - Refer to
   code [Program_1](https://github.com/sp18-interns/Sumit-Intern/blob/main/17-May-2022/Inbuilt_Function.py)  [Program_2](https://github.com/sp18-interns/Sumit-Intern/blob/main/17-May-2022/sum_real_no.py)
-- Usefull PyCharm Shortcut
+- Useful PyCharm Shortcut
 '''
 - Reformat and rearrange code - Ctrl+Alt+Shift+L
 - minimize maximize - Ctrl+Alt+ + or - (plus or minus)
+'''
 ## VIDEOS
 
 - 🚧
