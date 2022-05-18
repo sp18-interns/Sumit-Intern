@@ -31,7 +31,7 @@
 
 ## ASSIGNMENT 
 - By Avinash Sir
-- ✅ Started Documentation for what i have learned 
+- ✅ Started Documentation for what i have learned (Submiting on Slack)
 
 ## DOUBTS
 - 🚫
