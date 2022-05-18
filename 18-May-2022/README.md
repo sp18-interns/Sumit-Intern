@@ -5,12 +5,11 @@
 
 ## FIRST HALF
 
-- ✅ Started revising OOPS with Python . Done 
+- ✅ Started revising OOPS with Python . Done
+- ✅ [Unit Testing Started]()
 
-## VIDEOS
-- 🚧 
-- ✅
-- 🚫
+## VIDEOS 
+- ✅ Boot Camp
 
 
 ## ASSIGNMENT
