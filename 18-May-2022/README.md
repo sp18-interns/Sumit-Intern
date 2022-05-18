@@ -11,39 +11,30 @@
 ## VIDEOS 
 - ✅ Udemy_Bootcamp
 
-
 ## ASSIGNMENT
 - 🚫
 
-
 ## DOUBTS
 - 🚫
-
 
 ## LINKS
 - ✅ [Unit Test](https://docs.python.org/3/library/unittest.html)
 
 
+
+
 ## SECOND HALF
 - ✅ SQL Hands-on
 
-
-
 ## VIDEOS
 - ✅ [SQL Server](https://www.youtube.com/watch?v=Q8gBvsUjTLw&t=142s)
-
-
 
 ## ASSIGNMENT 
 - By Avinash Sir
 - ✅ Started Documentation for what i have learned 
 
-
-
 ## DOUBTS
 - 🚫
-
-
 
 ## LINKS
 - ✅ [Microsoft Documentation on SQL](https://docs.microsoft.com/en-us/sql/relational-databases/tables/tables?view=sql-server-ver15)
