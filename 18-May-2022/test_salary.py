@@ -57,8 +57,8 @@ from salary_per_Month import Employee as EmployeePerMonth
 
 
 if __name__ == '__main__':
-    e1 = EmployeePerHour("Vrushali", 49, 2000)
-    e2 = EmployeePerHour("Sushma", 39, 2000)
+    e1 = EmployeePerHour("Vrushali", 51, 2000)
+    e2 = EmployeePerHour("Sushma", 49, 2000)
     print(e1)
     print(e2)
     print(f'Hi {e1.name} Your DA is {e1.deerness_allowance()}')

@@ -9,9 +9,9 @@ class Employee:
 
     def salary(self):
         if self.hours_worked >= 50:
-            return f'(OT Included){40 * self.wage + (self.hours_worked - 40) * self.wage * 1.5}'
+            return f'OT{40 * self.wage + (self.hours_worked - 40) * self.wage * 1.5}'
         else:
-            return f' {self.hours_worked * self.wage}'
+            return f'{self.hours_worked * self.wage}'   # problem is here with f' { }' this space after inverted comma
 
     def deerness_allowance(self):
         return ((self.hours_worked * self.wage) // 100) * self.da
