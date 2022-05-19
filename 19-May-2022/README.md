@@ -34,7 +34,7 @@
 ```
 There will be no special implementation 
 if we specify normal get() and set() methods to achieve the getters & setters property.
-class Javatpoint:   
+class Sp18:   
     def __init__(self, age = 0):   
          self._age = age   
       # using the getter method   
@@ -44,15 +44,15 @@ class Javatpoint:
     def set_age(self, a):   
         self._age = a   
     
-John = Javatpoint()   
+Sumit = Sp18()   
     
 #using the setter function  
-John.set_age(19)   
+Sumit.set_age(19)   
     
 # using the getter function  
-print(John.get_age())   
+print(Sumit.get_age())   
     
-print(John._age)  
+print(Sumit._age)  
 
 ```
 - ✅ Unit test in my previous code
