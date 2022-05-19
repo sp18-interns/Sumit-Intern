@@ -17,8 +17,6 @@
 
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
 
 
@@ -57,33 +55,15 @@ print(Sumit._age)
 ```
 - ✅ Unit test in my previous code
 
-
-
 ## VIDEOS
-- 🚧 
-- ✅ 
-- 🚫 
+- ✅ [Get-Set](https://www.youtube.com/watch?v=jCzT9XFZ5bw)
 
-
-
-## ASSIGNMENT
-- 🚧 
-- ✅
-- 🚫
-
-
+## ASSIGNMENT 
+- ✅ Old Assignment of Lift Started
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
-
-
 
 ## LINKS
-
-- 🚧 
-- ✅
-- 🚫
-
+- ✅[Mit](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
 
