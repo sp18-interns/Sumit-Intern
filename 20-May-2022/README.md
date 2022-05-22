@@ -31,6 +31,7 @@
 ## SECOND HALF
 - ✅ Learning Boot Camp
 - ✅ Inheritance in Python
+- ✅ Scope
 
 
 ## VIDEOS 
@@ -45,4 +46,5 @@
 
 ## LINKS
 - ✅ [Unit Test](https://docs.python.org/3/library/unittest.html)
-- ✅
+- ✅ [Inheritance](https://www.w3schools.com/python/python_inheritance.asp)
+- ✅ [Scope](https://www.w3schools.com/python/python_scope.asp)
