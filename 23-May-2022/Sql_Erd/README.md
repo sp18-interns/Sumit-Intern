@@ -40,11 +40,11 @@ EmpId INT REFERENCES EMPLOYEE(EmpId),
 
 
 ```
-- ![Alt text](Query_PK_Creat-Table.png?raw="True")
+- ![Alt text](Query_PK_Creat-Table.PNG?raw="True")
 
 
 ## ER-Diagram
 
-- ![Alt text](ERD.png?raw="True")
+- ![Alt text](ERD.PNG?raw="True")
 
 
