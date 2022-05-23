@@ -2,8 +2,8 @@
 
 # Date 23-May-2022
 
-## SQL-Handson for Creat Table with Primary key & Foregin Key 
-## SQL-Handson for ERD- Entity Relationship Diagram
+## SQL-Handson for Create Table with Primary key & Foregin Key 
+### SQL-Handson for ERD- Entity Relationship Diagram
 
 - ✅ Query syntax for Create Table 
 ```
@@ -43,7 +43,7 @@ EmpId INT REFERENCES EMPLOYEE(EmpId),
 - ![Alt text](Query_PK_Creat-Table.PNG?raw="True")
 
 
-## ER-Diagram
+### ER-Diagram
 
 - ![Alt text](ERD.PNG?raw="True")
 
