@@ -1,6 +1,3 @@
-import math
-import time
-
 
 class Calculator:
 

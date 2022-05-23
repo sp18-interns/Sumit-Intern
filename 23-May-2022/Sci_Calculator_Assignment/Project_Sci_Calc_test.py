@@ -1,5 +1,4 @@
 from Project_Sci_Calc import Calculator
-import math
 import time
 
 while True:
@@ -8,9 +7,7 @@ while True:
     calc = Calculator(n1, n2)
     choice = " "
     print('''       Here is list of Calculation :-
-            1 : ADD       ||  2 : SUBTRACTION  ||  3 : MULTIPLICATION
-            4 : DIVISION  ||  5 : SIN RADIAN   ||  6 : COS RADIAN
-            7 : TAN RADIAN
+            1 : ADD       ||  2 : SUBTRACTION  ||  3 : MULTIPLICATION  || 4 : DIVISION
             0 : Exit''')
     try:
         choice = int(input('Enter the number of your choice : '))
