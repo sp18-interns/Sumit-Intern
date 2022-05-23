@@ -16,8 +16,6 @@
 - ✅ Documentation is in progress
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
 
 ## LINKS
@@ -52,9 +50,7 @@ Print Yes if the input word can be considered as the string zoo otherwise, print
 - ✅ Scientific Calculator
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
 
-## LINKS s
+## LINKS
 - ✅
