@@ -29,7 +29,7 @@
 
 
 ## SECOND HALF 
-- ✅ [Hacker Earth Problem]()
+- ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/23-May-2022/Hacker_Earth)
 ## VIDEOS
 - 🚧 
 - ✅
