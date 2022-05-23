@@ -35,7 +35,7 @@
 - ✅
 
 ## ASSIGNMENT 
-- ✅ SQL ERD hands-on
+- ✅ [SQL ERD hands-on](https://github.com/sp18-interns/Sumit-Intern/tree/main/23-May-2022/Sql_Erd)
 - ✅ [Scientific Calculator in Progress](https://github.com/sp18-interns/Sumit-Intern/tree/main/23-May-2022/Sci_Calculator_Assignment)
 
 ## DOUBTS
