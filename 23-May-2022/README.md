@@ -5,19 +5,17 @@
 
 ## FIRST HALF
 
-- ✅ Started revising OOPS with Python . Done 
+- ✅ Started revising OOPS with Python . Done
+- ✅ Unit Testing . Done
+- ✅ Documentation
 
 ## VIDEOS
-- 🚧 
-- ✅
-- 🚫
+- ✅ Boot Camp
 
 
-## ASSIGNMENT
-- 🚧 
-- ✅
-- 🚫
-
+## ASSIGNMENT 
+- ✅ Unit Test of Salary Calculator Assignment. Done
+- ✅ Documentation is in progress
 
 ## DOUBTS
 - 🚧 
