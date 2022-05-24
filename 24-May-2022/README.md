@@ -23,6 +23,7 @@
 
 
 ## SECOND HALF
+- ✅ Demo done with Mentors Kunal Sir, Abrar Sir, Vishal Sir
 - ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-May-2022/Hacker_Earth)
 - ✅ TODO task on Enhancement of salary calculator- By Vishal Sir & Abrar Sir
 - ✅ Video of Inheritance BOOT camp
