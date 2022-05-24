@@ -62,10 +62,10 @@ if __name__ == '__main__':
     print(e1)
     print(e2)
     e1_sallary = e1.salary()
-    e1_da = e1.deerness_allowance()
+    e1_da = e1.dearness_allowance()
     e1_it = e1.income_tax()
     e2_sallary = e2.salary()
-    e2_da = e2.deerness_allowance()
+    e2_da = e2.dearness_allowance()
     e2_it = e2.income_tax()
 
     print(f'{e1.name}. Your Net Salary is {(e1_sallary + e1_da) - e1_it}')

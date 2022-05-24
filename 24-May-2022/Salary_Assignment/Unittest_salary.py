@@ -16,11 +16,11 @@ class TestSalaryPerHr(unittest.TestCase):
         self.assertEqual(result, 113000.0)
 
     def test_perhour03_DA(self):
-        result = em1.deerness_allowance()
+        result = em1.dearness_allowance()
         self.assertEqual(result, 9800)
 
     def test_perhour04_DA(self):
-        result = em2.deerness_allowance()
+        result = em2.dearness_allowance()
         self.assertEqual(result, 10200)
 
     def test_perhour05_IT(self):
