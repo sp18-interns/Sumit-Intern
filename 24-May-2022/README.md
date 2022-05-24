@@ -4,7 +4,6 @@
 
 
 ## FIRST HALF
-
 - ✅ Assignment Demo Prepration
 - ✅ [Unit Test Ready](https://github.com/sp18-interns/Sumit-Intern/blob/main/24-May-2022/Unit_Test.md)
 - ✅ [Demo-Salary Calculator Ready](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-May-2022/Salary_Assignment)
@@ -13,21 +12,17 @@
 ## VIDEOS
 - ✅ Boot Camp
 
-
 ## ASSIGNMENT 
 - 🚫 
 
 ## DOUBTS
 - 🚫
 
-
 ## LINKS
-- ✅ [Python Iterators](https://www.w3schools.com/python/python_iterators.asp)
-- ✅ [Python Class](https://www.w3schools.com/python/python_classes.asp)
+- 🚫
 
 
 ## SECOND HALF
-
 - ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-May-2022/Hacker_Earth)
 - ✅ TODO task on Enhancement of salary calculator- By Vishal Sir & Abrar Sir
 - ✅ Video of Inheritance BOOT camp
