@@ -7,7 +7,7 @@
 
 - ✅ Assignment Demo Prepration
 - ✅ [Unit Test Ready](https://github.com/sp18-interns/Sumit-Intern/blob/main/24-May-2022/Unit_Test.md)
-- ✅ [Demo-Salary Calculator Ready]
+- ✅ [Demo-Salary Calculator Ready](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-May-2022/Salary_Assignment)
 - ✅ Documentation
 
 ## VIDEOS
