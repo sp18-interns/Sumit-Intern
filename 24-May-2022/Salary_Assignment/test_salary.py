@@ -58,7 +58,7 @@ from salary_per_Month import Employee as EmployeePerMonth
 
 if __name__ == '__main__':
     e1 = EmployeePerHour("Vrushali", 51, 2000)
-    e2 = EmployeePerHour("Sushma", 49, 2000)
+    e2 = EmployeePerHour("Sushma", 50, 2000)
     print(e1)
     print(e2)
     e1_sallary = e1.salary()
