@@ -4,5 +4,5 @@
 
 
 ## ✅ Hacker Earth Problem
-- 1: Palindrome Check
+- 1: Stop Processing after reaching a specific number
 ![Alt text](Life_Universe_Everything.png?raw="True")
