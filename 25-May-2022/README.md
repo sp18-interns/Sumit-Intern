@@ -4,16 +4,14 @@
 
 
 ## FIRST HALF
-- ✅ Assignment Demo Prepration
-- ✅ [Unit Test Ready](https://github.com/sp18-interns/Sumit-Intern/blob/main/24-May-2022/Unit_Test.md)
-- ✅ [Demo-Salary Calculator Ready](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-May-2022/Salary_Assignment)
-- ✅ Documentation
+- ✅ Assignment Demo Preparation
+- ✅ Code Modification according OOPS as task Assign by Mentors
 
 ## VIDEOS
 - ✅ Boot Camp
 
 ## ASSIGNMENT 
-- 🚫 
+- Put essence of OOPs in my salary calculator
 
 ## DOUBTS
 - 🚫
@@ -23,17 +21,14 @@
 
 
 ## SECOND HALF
-- ✅ Demo done with Mentors Kunal Sir, Abrar Sir, Vishal Sir
-- ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-May-2022/Hacker_Earth)
-- ✅ TODO task on Enhancement of salary calculator- By Vishal Sir & Abrar Sir
-- ✅ Video of Inheritance BOOT camp
-- ✅ SQL handson
+- ✅ SQL demo Preparation
+- ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/25-May-2022/Hacker_Earth)
 
 ## VIDEOS 
-- ✅
+- 🚫
 
 ## ASSIGNMENT 
-- ✅ [Scientific Calculator in Progress](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-May-2022/Sci_Calculator_Assignment)
+- 🚫
 
 ## DOUBTS
 - 🚫
