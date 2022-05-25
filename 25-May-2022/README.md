@@ -17,10 +17,11 @@
 - 🚫
 
 ## LINKS
-- 🚫
+- [Access-modifiers](https://tutorialsclass.com/python-access-modifiers/)
 
 
 ## SECOND HALF
+- ✅ Salary Calculator Assignment Done
 - ✅ SQL demo Preparation
 - ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/25-May-2022/Hacker_Earth)
 
@@ -28,10 +29,10 @@
 - 🚫
 
 ## ASSIGNMENT 
-- 🚫
+- ✅ SQL Demo
 
 ## DOUBTS
 - 🚫
 
 ## LINKS 
-- 🚫
+- ✅ [SQL](https://www.w3schools.com/sql/default.asp)
