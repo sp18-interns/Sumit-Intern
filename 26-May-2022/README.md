@@ -24,7 +24,7 @@
 ## SECOND HALF
 - ✅ SQL demo Preparation
 - ✅ Hands-on With DDL & DML
-- ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/25-May-2022/Hacker_Earth)
+- ✅ [Hacker Earth Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/26-May-2022/Hacker_Earth)
 
 ## VIDEOS
 - ✅ Boot Camp
