@@ -1,8 +1,8 @@
 # Sumit-Intern
 
-# Date 25-May-2022
+# Date 26-May-2022
 
 
 ## ✅ Hacker Earth Problem
-- 1: Stop Processing after reaching a specific number
-![Alt text](Life_Universe_Everything.png?raw="True")
+- 1: Counting Divisiors
+![Alt text](Counting_Divisors.png?raw="True")
