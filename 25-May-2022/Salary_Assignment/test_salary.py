@@ -1,4 +1,4 @@
-from salary_per_hour import Salary_slip as S_slip
+from Payroll_per_hour import Salary_slip as S_slip
 
 if __name__ == '__main__':
     e1 = S_slip("Shalini", 100, 2000, 'Manager')
