@@ -5,7 +5,7 @@
 
 ## FIRST HALF
 
-- ✅ SQL-query Documentation
+- ✅ [SQL-query Documentation](https://github.com/sp18-interns/Sumit-Intern/blob/main/28-May-2022/Hacker_Rank/SQL.md)
 - ✅ Salary Calculator Assignment is started with new Approach 
 ![img_1.png](CTC_diagram.png)
 
