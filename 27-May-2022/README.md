@@ -5,7 +5,7 @@
 
 ## FIRST HALF
 
-- ✅ [Hacker Rank Problem](![Uploading image.png…](https://github.com/sp18-interns/Sumit-Intern/tree/main/27-May-2022/Hacker_Rank)
+- ✅ [Hacker Rank Problem](https://github.com/sp18-interns/Sumit-Intern/tree/main/27-May-2022/Hacker_Rank)
 - ✅ SQL-DEMO Preppration 
 
 ## VIDEOS
