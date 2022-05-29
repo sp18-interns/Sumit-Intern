@@ -5,7 +5,7 @@
 
 ## FIRST HALF
 
-- ✅ Heacker Earth Problem
+- ✅ Heacker Rank Problem
 - ✅ SQL-DEMO Preppration 
 
 ## VIDEOS
