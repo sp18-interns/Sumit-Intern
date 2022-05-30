@@ -6,7 +6,7 @@
 ## FIRST HALF
 
 - ✅ [SQL Documentation is in progress](https://github.com/sp18-interns/Sumit-Intern/blob/main/30-May-2022/Hacker_Rank/SQL.md)
-- ✅ [Salary_Calculator 1.0](https://github.com/sp18-interns/Sumit-Intern/blob/main/30-May-2022/CTC_1.1.py)
+- ✅ [Salary_Calculator 1.0](https://github.com/sp18-interns/Sumit-Intern/blob/main/CTC_Payroll_Management/CTC_1.1.py)
 
 ## VIDEOS
 - 🚫
@@ -25,35 +25,18 @@
 
 
 ## SECOND HALF
-- 🚧 (Salary Calculator 2.0)
-
-
+- 🚧 [Salary Calculator 2.0](https://github.com/sp18-interns/Sumit-Intern/blob/main/CTC_Payroll_Management/CTC_2.0.py)
+- ✅  [Hacker Rank](https://github.com/sp18-interns/Sumit-Intern/tree/main/30-May-2022/Hacker_Rank)
 
 ## VIDEOS
-- 🚧 
-- ✅
 - 🚫
 
-
-
-## ASSIGNMENT
-- 🚧 
-- ✅
-- 🚫
-
-
+## ASSIGNMENT 
+- ✅ Salary Calculator
 
 ## DOUBTS
-- 🚧 
-- ✅
-- 🚫
-
-
+- 🚧 Function or Method Composition
 
 ## LINKS
-
-- 🚧 
-- ✅
 - 🚫
-
 
