@@ -5,35 +5,27 @@
 
 ## FIRST HALF
 
-- ✅ SQL session with Avinash Sir 
+- ✅ [SQL Documentation is in progress](https://github.com/sp18-interns/Sumit-Intern/blob/main/30-May-2022/Hacker_Rank/SQL.md)
+- ✅ [Salary_Calculator 1.0](https://github.com/sp18-interns/Sumit-Intern/blob/main/30-May-2022/CTC_1.1.py)
 
 ## VIDEOS
-- 🚧 
-- ✅
 - 🚫
 
 
 ## ASSIGNMENT
-- 🚧 
-- ✅
-- 🚫
+- 🚧 Salary Calculator
 
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
 
 
 ## LINKS
-- ✅ [Python Iterators](https://www.w3schools.com/python/python_iterators.asp)
-- ✅ [Python Class](https://www.w3schools.com/python/python_classes.asp)
+- ✅ [Python Composition](https://www.geeksforgeeks.org/inheritance-and-composition-in-python/)
 
 
 ## SECOND HALF
-- 🚧 
-- ✅
-- 🚫
+- 🚧 (Salary Calculator 2.0)
 
 
 
