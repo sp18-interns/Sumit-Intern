@@ -23,7 +23,7 @@
 - ✅ [Method Composition](https://realpython.com/inheritance-composition-python/)
 
 ## SECOND HALF
-- ✅  [Hacker Rank](https://github.com/sp18-interns/Sumit-Intern/tree/main/30-May-2022/Hacker_Rank)
+- ✅  [Hacker Rank](https://github.com/sp18-interns/Sumit-Intern/tree/main/31-May-2022/Hacker_Rank)
 - ✅  SQL Query
 ## VIDEOS
 - 🚫
