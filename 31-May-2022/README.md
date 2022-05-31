@@ -30,6 +30,7 @@
 
 ## ASSIGNMENT 
 - ✅ DEMO Preparation for SQL
+- ✅ [Preparation for Knowledge sharing session](https://docs.google.com/presentation/d/1P6mEIpYGoqFZpqA4QZCrbeKTXUtuTdgrPuOdo_klFX8/edit#slide=id.p1)
 
 ## DOUBTS
 - 🚧 Stuck at Column Default value
