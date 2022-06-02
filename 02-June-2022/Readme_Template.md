@@ -5,7 +5,8 @@
 
 ## FIRST HALF
 
-- ✅ Started revising OOPS with Python . Done 
+- ✅ 3 Problem done on HACKER_Rank .
+- ✅
 
 ## VIDEOS
 - 🚧 
