@@ -5,7 +5,7 @@
 
 ## FIRST HALF
 
-- ✅ 3 Problem done on HACKER_Rank .
+- ✅ [HACKER_Rank](https://github.com/sp18-interns/Sumit-Intern/tree/main/02-June-2022/Hacker_Rank)
 - ✅
 
 ## VIDEOS
