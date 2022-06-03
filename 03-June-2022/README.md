@@ -5,8 +5,8 @@
 
 ## FIRST HALF
 
-- ✅ Auth & Auth
-![Alt text](auth_and_auth.png?raw="True")
+- ✅ Auth & Auth 
+- ![Alt text](auth_and_auth.png?raw="True")
 
 
 ## VIDEOS
