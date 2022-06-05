@@ -5,7 +5,7 @@
 
 ## FIRST HALF
 
-- ✅ Started revising OOPS with Python . Done 
+- ✅ 
 
 ## VIDEOS
 - 🚧 
@@ -26,9 +26,9 @@
 
 
 ## LINKS
-- ✅ [Python Iterators](https://www.w3schools.com/python/python_iterators.asp)
-- ✅ [Python Class](https://www.w3schools.com/python/python_classes.asp)
-
+- 🚧 
+- ✅
+- 🚫
 
 ## SECOND HALF
 - 🚧 
