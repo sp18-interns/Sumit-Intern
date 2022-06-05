@@ -6,7 +6,7 @@
 ## FIRST HALF
 - ✅ Auth & Auth 
 - ![Alt text](auth_and_auth.png?raw="True")
-- [Hacker_Rank](https://github.com/sp18-interns/Sumit-Intern/tree/main/03-June-2022/Hacker_Rank)
+- [Hacker_Rank 1-Old, 2-New](https://github.com/sp18-interns/Sumit-Intern/tree/main/03-June-2022/Hacker_Rank)
 
 ## VIDEOS
 - 🚫
