@@ -5,7 +5,7 @@
 
 ## FIRST HALF
 
-- ✅ OOPS
+- ✅ OOPS Boot Camp Reading
 - ✅ Methods — Functions Associated with the Class
 - ✅ Dunder Method
 ## VIDEOS
