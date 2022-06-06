@@ -5,44 +5,30 @@
 
 ## FIRST HALF
 
-- ✅ OOPS 
-
+- ✅ OOPS
+- ✅ Methods — Functions Associated with the Class
+- ✅ Dunder Method
 ## VIDEOS
-- 🚧 
-- ✅
 - 🚫
-
 
 ## ASSIGNMENT
-- 🚧 
-- ✅
 - 🚫
-
 
 ## DOUBTS
-- 🚧 
-- ✅
 - 🚫
 
-
-## LINKS
-- 🚧 
-- ✅
-- 🚫
+## LINKS 
+- ✅ [Class](https://www.cs.rpi.edu/~sibel/csci1100/fall2017/lecture_notes/lec18_classes1.html)
 
 ## SECOND HALF
 - 🚧 
 - ✅
 - 🚫
 
-
-
 ## VIDEOS
 - 🚧 
 - ✅
 - 🚫
-
-
 
 ## ASSIGNMENT
 - 🚧 
@@ -50,18 +36,12 @@
 - 🚫
 
 
-
 ## DOUBTS
 - 🚧 
 - ✅
 - 🚫
 
-
-
 ## LINKS
-
 - 🚧 
 - ✅
 - 🚫
-
-
