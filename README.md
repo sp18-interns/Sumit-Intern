@@ -7,3 +7,4 @@
 - [Date 2-June-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/02-June-2022)
 - [Date 3-June-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/03-June-2022)
 - [Date 6-June-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/06-June-2022)
+- [Date 7-June-2022](https://github.com/sp18-interns/Sumit-Intern/tree/main/07-June-2022)
