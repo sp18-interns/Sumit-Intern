@@ -32,7 +32,7 @@ Did lots of troubleshooting but no change so HARDstoped this function to Read on
 ## SECOND HALF 
 - ✅ Class Import Option from Module
 - ✅ Module Import
-    - ✅ [ Import Dir()](https://github.com/sp18-interns/Sumit-Intern/tree/main/09-June-2022/Test_sumit)
+    - ✅ [ Import Dir()](https://github.com/sp18-interns/Sumit-Intern/tree/main/09-June-2022/test_sumit)
 ```
 The dir( ) function
 The dir() is a built-in-function in python. The dir() returns all the properties and methods, including the given object’s built-in properties.
