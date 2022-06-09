@@ -31,8 +31,6 @@ Did lots of troubleshooting but no change so HARDstoped this function to Read on
 
 ## SECOND HALF 
 - ✅ Class Import Option from Module
-- ✅ [Hacker Rank_Python](https://github.com/sp18-interns/Sumit-Intern/tree/main/09-June-2022/Hacker_Rank)
-- ✅ [Hacker Rank_SQL](https://github.com/sp18-interns/Sumit-Intern/tree/main/09-June-2022/Hacker_Rank_SQL)
 - ✅ Module Import
     - ✅ [ Import Dir()](https://github.com/sp18-interns/Sumit-Intern/tree/main/09-June-2022/Test_sumit)
 ```
