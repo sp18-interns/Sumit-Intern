@@ -5,7 +5,7 @@
 
 ## ✅ Hacker Rank Problem
 - 1: select_query_1
-![Alt text](weather-observation-station-8-problem.png.png?raw="True")
+![Alt text](weather-observation-station-8-problem.png?raw="True")
 
 
 
