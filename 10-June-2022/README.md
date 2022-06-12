@@ -4,20 +4,14 @@
 
 
 ## FIRST HALF
-
-- ✅
-
-![Alt text](wrap_text_error.png?raw="True")
-
 - ✅ [Hacker Rank_Python](https://github.com/sp18-interns/Sumit-Intern/tree/main/10-June-2022/Hacker_Rank)
-- ✅ Class Import Option from Module
+- ✅ Playing with Class Import Option from Module
 	- ✅ Module Import
 	- ✅ [ Import Dir()](https://github.com/sp18-interns/Sumit-Intern/tree/main/10-June-2022/test_sumit)
 	- ✅ [Packages](https://github.com/sp18-interns/Sumit-Intern/tree/main/10-June-2022/Module)
 
-
 ## VIDEOS
-- 🚫
+- ✅ [Import](youtube.com/watch?v=Uh2ebFW8OYM)
 
 ## ASSIGNMENT
 - 🚫
@@ -26,11 +20,15 @@
 - 🚫
 
 ## LINKS
-- ✅ 
+- 🚫
 
 
 ## SECOND HALF
-- ✅ 
+- ✅ Boot Camp-Udemy
+- ✅ try to Breaking Down the pizza function
+- ✅ Rest API Session With Mr.Kunal Sir 
+- ✅ Presentation on REST API by Mr.Bhavesh
+
 ## VIDEOS
 - 🚫
 
@@ -41,3 +39,4 @@
 - 🚫
 
 ## LINKS
+- ✅ [Import Function](https://note.nkmk.me/en/python-import-usage/)
