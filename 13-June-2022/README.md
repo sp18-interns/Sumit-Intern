@@ -51,13 +51,15 @@ print(list(result))
 ## SECOND HALF 
 - ✅ Class Import Option from Module
 - ✅ Module Import
+- ✅ [Dish_Maker](https://github.com/sp18-interns/sumit_projects)
 ## VIDEOS
 - 🚫
 
 ## ASSIGNMENT
-- Restaurant Problem by vishal sir
+- ✅ Restaurant Problem by vishal sir
 
 ## DOUBTS
 - 🚫
 
 ## LINKS
+- 🚫
