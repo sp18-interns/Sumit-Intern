@@ -52,6 +52,8 @@ print(list(result))
 - ✅ Class Import Option from Module
 - ✅ Module Import
 - ✅ [Dish_Maker](https://github.com/sp18-interns/sumit_projects)
+- ✅ Branching In git by Kunal Sir
+- ✅ Reading About Rest API
 ## VIDEOS
 - 🚫
 
@@ -62,4 +64,4 @@ print(list(result))
 - 🚫
 
 ## LINKS
-- 🚫
+- ✅ [Rest API](https://restfulapi.net/)
