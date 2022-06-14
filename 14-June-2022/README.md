@@ -5,7 +5,7 @@
 
 ## FIRST HALF
 
-- ✅ Rest API
+- ✅ Rest API (Basic Understanding)
 - ✅ Started Django
     - 02 Course Setup
         - 001 Module Introduction
@@ -33,6 +33,18 @@ which could break system tools or other projects. You can install virtualenv usi
 
 ## SECOND HALF 
 - ✅ Rest API
+	- Code Range
+```
+Code range	| Category
+---------------------------
+2xx		| Successful operation
+3xx		| Redirection
+4xx		| Client error
+5xx		| Server error
+```
+
+	- API Endpoints
+
 - ✅ [Assignment Restaurant](https://github.com/sp18-interns/sumit_projects)
 ## VIDEOS
 - 🚫
@@ -51,3 +63,4 @@ what are the usecases
 ## LINKS
 - [class composition](https://faun.pub/association-aggregation-composition-python-ec9947832cbd)
 - [oops](https://www.cs.rpi.edu/~sibel/csci1100/fall2017/lecture_notes/lec18_classes1.html)
+- [API](https://realpython.com/api-integration-in-python/)
