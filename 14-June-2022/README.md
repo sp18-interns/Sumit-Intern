@@ -33,7 +33,7 @@ which could break system tools or other projects. You can install virtualenv usi
 
 ## SECOND HALF 
 - ✅ Rest API
-- ✅ [New package restaurant](https://github.com/sp18-interns/sumit_projects)
+- ✅ [Assignment Restaurant](https://github.com/sp18-interns/sumit_projects)
 ## VIDEOS
 - 🚫
 
