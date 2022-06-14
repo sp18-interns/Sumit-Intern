@@ -50,3 +50,4 @@ what are the usecases
 
 ## LINKS
 - [class composition](https://faun.pub/association-aggregation-composition-python-ec9947832cbd)
+- [oops](https://www.cs.rpi.edu/~sibel/csci1100/fall2017/lecture_notes/lec18_classes1.html)
