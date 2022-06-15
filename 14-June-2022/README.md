@@ -43,7 +43,7 @@ Code range	| Category
 5xx		| Server error
 ```
 
-	- API Endpoints
+- API Endpoints
 
 - ✅ [Assignment Restaurant](https://github.com/sp18-interns/sumit_projects)
 ## VIDEOS
