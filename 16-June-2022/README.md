@@ -31,7 +31,7 @@
 		- ✅ 006 Dynamic Path Segments & Captured Values
 
 
-- ✅ Django Hands-on Through Quickstart(My first Django Project)
+- ✅ Django Hands-on Through Quickstart [My first Django Project](https://github.com/sp18-interns/Sumit-Intern/tree/main/16-June-2022/Django_01)
 	
 ## VIDEOS 
 - ✅ Django Boot Camp Video
