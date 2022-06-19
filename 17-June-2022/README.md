@@ -6,10 +6,10 @@
 ## FIRST HALF
 - ✅ Django Udemy
 	- ✅ 03 URLs & Views
-		- ✅ 001 Module Introduction
-		- ✅ 002 Creating a New Project
-		- ✅ 003 What are URLs & Views_
-		- ✅ 004 Creating a First View & URL
+		- ✅ 005 Adding More Views & URLs
+		- ✅ 006 Dynamic Path Segments & Captured Values
+		- ✅ 007 Path Converters
+		- ✅ 008 Adding More Dynamic View Logic
 		
 ## VIDEOS 
 - ✅ Udemy Boot Camp
@@ -27,8 +27,6 @@
 
 - ✅ Django Udemy
 	- ✅ 03 URLs & Views
-		- ✅ 005 Adding More Views & URLs
-		- ✅ 006 Dynamic Path Segments & Captured Values
 
 
 - ✅ Django Hands-on Through Quickstart [My first Django Project](https://github.com/sp18-interns/Sumit-Intern/tree/main/16-June-2022/Django_01)
