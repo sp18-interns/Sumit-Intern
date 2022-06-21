@@ -4,19 +4,20 @@
 
 
 ## FIRST HALF
-- ✅ 
-
+- ✅ HTTP-Request
+- ✅ Request parsing
 
 ## VIDEOS 
 - ✅ Udemy Boot Camp
 
 ## LINKS 
-- ✅ [API-Guide](https://www.django-rest-framework.org/api-guide/serializers/)
+- ✅ [API-Guide](https://www.django-rest-framework.org/api-guide/requests/#requests)
 
 ## SECOND HALF
-
-- ✅ Django Rest framework Hands-on
- ![alt text](restapi.png?raw=true)
+- ✅ Requests and Responses
+- ✅ Request objects
+- ✅ Response objects
+- ✅ Status codes
 
 ## VIDEOS 
 - ✅ Django Boot Camp Video
@@ -29,4 +30,4 @@
 
 ## LINKS 
 - ✅ [DRF-Quickstart Guide](https://www.django-rest-framework.org/tutorial/quickstart/#quickstart)
-- ✅ [Serializer](https://www.django-rest-framework.org/tutorial/1-serialization/)
+- ✅ [Request_Responses](https://www.django-rest-framework.org/tutorial/2-requests-and-responses/)
