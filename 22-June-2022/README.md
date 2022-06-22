@@ -52,7 +52,7 @@ done
 ```
 - ✅ Scene Behind 404 error
 ```
-If none of the path function calls matches
+If no path function calls matches
 with the URL in request, then the inbuilt 404 error (page not
 found) template is rendered by Django.
 
