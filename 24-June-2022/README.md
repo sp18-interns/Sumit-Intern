@@ -4,12 +4,15 @@
 
 
 ## FIRST HALF
-- ✅ Hands-on Django [refer to folder]()
+- ✅ Hands-on Django [refer to folder](https://github.com/sp18-interns/Sumit-Intern/tree/main/24-June-2022/Django_project)
+
 ```
 Project created about library 
 project will add and delete books and replicate to html page
 
 ```
+![img.png](1.png)
+![img.png](2.png)
 
 ## VIDEOS 
 - NONE
@@ -20,6 +23,8 @@ project will add and delete books and replicate to html page
 
 ## SECOND HALF
 - ✅ Serializer
+- SQL-Hacker_Rank
+- ![img.png](Hacker_rank.png)
 
 
 ## VIDEOS 
