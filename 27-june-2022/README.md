@@ -4,8 +4,7 @@
 
 
 ## FIRST HALF
-- ✅ Hands-on Django [refer to folder](https://github.com/sp18-interns/Sumit-Intern/tree/main/27-June-2022/django)
-
+- ✅ Hands-on Django [refer to folder](https://github.com/sp18-interns/Sumit-Intern/tree/main/27-june-2022/django)
 
 ## VIDEOS 
 - NONE
