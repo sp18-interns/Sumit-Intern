@@ -4,7 +4,7 @@
 
 
 ## FIRST HALF
-- ✅ Hands-on Django [refer to folder](https://github.com/sp18-interns/Sumit-Intern/tree/main/28-June-2022/django)
+- ✅ Hands-on Django [refer to folder](https://github.com/sp18-interns/Sumit-Intern/tree/main/28-June-2022/Django)
 
 
 ## VIDEOS
@@ -16,7 +16,12 @@
 
 
 ## SECOND HALF
-- ✅ Serializer
+- ✅ Django Hands on
+![img.png](1.png)
+![img.png](2.png)
+![img.png](3.png)
+![img.png](4.png)
+![img.png](5.png)
 
 
 ## VIDEOS 
