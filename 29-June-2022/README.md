@@ -9,19 +9,19 @@
 - `manage.py` options and purpose
 - `django-admin` command
 - `INSTALLED_APPS` significance, location, how/where/when to use
-- `apps.py`
-- `migrations`
-- `models.py`
+- `apps.py` 
+- `migrations` 
+- `models.py` database schema file
 - `tests.py`
-- `views.py`
+- `views.py` all corresponding function or code is in this file
 - `wsgi.py`
 - `asgi.py`
 - `urls.py` contain a mapping of URLs and the corresponding action to be taken when that URL is hit.
 - `Settings.py` conf & setting of project
-- `createsuperuser`
+- `createsuperuser` it will create admin or user to access UI control
 - `Router`
 - `Pagination`
-- `API`
+- `API` client server connector
 - `Serializer`
 - `Request object`
 - `request.POST`   Only handles form data.  Only works for 'POST' method. 
