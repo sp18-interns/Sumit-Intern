@@ -37,6 +37,19 @@ typically JSON, and is displayed at an API endpoint.
 
 
 ```
+
+## SECOND HALF
+
+# Devops Hands-on
+![img.png](1.png)
+![img.png](2.png)
+![img.png](3.png)
+![img.png](4.png)
+![img.png](5.png)
+![img.png](6.png)
+![img.png](7.png)
+
+
 ## LINKS 
 - ✅ [DRF-Quickstart Guide](https://www.django-rest-framework.org/tutorial/quickstart/#quickstart)
 - ✅ [Django Doc](https://docs.djangoproject.com/en/4.0/topics/db/models/)
