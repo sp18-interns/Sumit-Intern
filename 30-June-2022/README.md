@@ -9,11 +9,11 @@
 - `manage.py` options and purpose
 - `django-admin` command
 - `INSTALLED_APPS` significance, location, how/where/when to use
-- `apps.py`
-- `migrations`
-- `models.py`
-- `tests.py`
-- `views.py`
+- `apps.py` configuration file for the app itself
+- `migrations` directory stores migrations files for database changes
+- `models.py` is where we define our database models
+- `tests.py`is for our app-specific tests
+- `views.py`is where we handle the request/response logic for our web app
 - `wsgi.py`
 - `asgi.py`
 - `urls.py` contain a mapping of URLs and the corresponding action to be taken when that URL is hit.
@@ -29,17 +29,12 @@
   - `Status codes` explicit identifiers coupled with numeric value which is return
 ```
 Django REST framework
-Conclusion
-A web framework is a tool that can be used to quickly create a
-web application. All the code needed for the heavy lifting is already
-done in a framework and all we need to do is write the code
-specific to your application. Virtual environments are the key to
-keeping the dependencies separated so that we can work on
-different projects at the same time.
-- i learnt how to create virtual environments and how to use them & also how to create a Django powered project.
-- i learnt to run the server and start your Django project. 
-- i know what files are created when you create a project in Django.
-- i also learnt not perfactly but concluded what a framework is and what to expect out of it.
+
+Part-2
+
+A serializer translates data into a format that is easy to consume over the internet,
+typically JSON, and is displayed at an API endpoint.
+
 
 ```
 ## LINKS 
