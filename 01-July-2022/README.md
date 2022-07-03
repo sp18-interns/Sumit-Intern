@@ -6,19 +6,8 @@
 ## FIRST HALF
 # Serializers
 ## Getting started UNKNOWNS
-- `manage.py` options and purpose
-- `django-admin` command
-- `INSTALLED_APPS` significance, location, how/where/when to use
-- `apps.py` configuration file for the app itself
-- `migrations` directory stores migrations files for database changes
-- `models.py` is where we define our database models
-- `tests.py`is for our app-specific tests
-- `views.py`is where we handle the request/response logic for our web app
 - `wsgi.py`
 - `asgi.py`
-- `urls.py` contain a mapping of URLs and the corresponding action to be taken when that URL is hit.
-- `Settings.py` conf & setting of project
-- `createsuperuser`
 - `Router`
 - `Pagination`
 - `API`
@@ -41,6 +30,14 @@
 - ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/5.png?raw=true)
 - ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/Postman.png?raw=true)
 
+- Working on Blocker
+```
+How ?
+Data coming from frontend will validate 
+
+Solution
+writing is_valid method in views.py file of App 
+```
 
 ## LINKS 
 - ✅ [DRF-Quickstart Guide](https://www.django-rest-framework.org/tutorial/quickstart/#quickstart)
