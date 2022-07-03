@@ -34,7 +34,12 @@
 ## SECOND HALF
 
 # Serializer Hands-on
-- ![alt text](HackerRank.png?raw=true)
+- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/1.png?raw=true)
+- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/2.png?raw=true)
+- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/3.png?raw=true)
+- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/4.png?raw=true)
+- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/5.png?raw=true)
+- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/Postman.png?raw=true)
 
 
 ## LINKS 
