@@ -23,12 +23,22 @@
 ## SECOND HALF
 
 # Serializer Hands-on
-- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/1.png?raw=true)
-- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/2.png?raw=true)
-- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/3.png?raw=true)
-- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/4.png?raw=true)
+- Quickstart_guide of DRF tryout
+![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/1.png?raw=true)
+
+- Self Tryout project
+![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/2.png?raw=true)
+
+- Post method Working
+![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/3.png?raw=true)
+
+- When calling post method in postman it will return empty Dictionary
+![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/4.png?raw=true)
+
+- When pass data in postman in json format it will return data
+![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/Postman.png?raw=true)
 - ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/5.png?raw=true)
-- ![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/01-July-2022/images/Postman.png?raw=true)
+
 
 - Working on Blocker
 ```
