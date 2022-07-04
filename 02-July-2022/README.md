@@ -24,6 +24,17 @@
 
 ![alt text](Runserver_console_output.png?raw=true)
 
+## Assignment
+- project assigned for passbook
+```
+First TODO Task
+1-Use-cases
+2-Entities
+3-API endpoints with requests + responses
+4-Models.
+
+```
+
 
 ## LINKS 
 - ✅ [DRF-Quickstart Guide](https://www.django-rest-framework.org/tutorial/quickstart/#quickstart)
