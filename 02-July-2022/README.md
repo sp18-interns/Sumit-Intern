@@ -22,7 +22,7 @@
 
 
 
-![alt text](runserver_console_output.png?raw=true)
+![alt text](Runserver_console_output.png?raw=true)
 
 
 ## LINKS 
