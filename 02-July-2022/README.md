@@ -14,8 +14,16 @@
 
 ## SECOND HALF
 
-- [Tryout of Data validation]()
+- [Tryout of Data validation](https://github.com/sp18-interns/Sumit-Intern/tree/main/Django_project/Tryout_project/Tutorial/library)
+
+
+![alt text](error_msg_is_valid_method_for_serializer.png?raw=true)
 ![alt text](is_valid_method_for_serializer.png?raw=true)
+
+
+
+![alt text](runserver_console_output.png?raw=true)
+
 
 ## LINKS 
 - ✅ [DRF-Quickstart Guide](https://www.django-rest-framework.org/tutorial/quickstart/#quickstart)
