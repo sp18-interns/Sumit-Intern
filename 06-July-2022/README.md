@@ -44,6 +44,8 @@ Balance (Final Balance on the transaction date)
 - Previous passbook project based on Python Django framework
 
 ## SECOND HALF
+- Reading Links
+- Reading & understanding the previous project
 
 
 ## LINKS 
