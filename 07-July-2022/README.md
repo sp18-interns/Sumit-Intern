@@ -5,7 +5,7 @@
 ## FIRST HALF
 
 - Django Rest Tryouts Handson given by [Django_official](https://www.django-rest-framework.org/tutorial/1-serialization/)
-- Tryout
+- [Tryout](https://github.com/sp18-interns/Sumit-Intern/tree/main/Django_project/Tryout_project)
 
 
 - Project assigned for passbook
@@ -14,6 +14,7 @@
 - Previous passbook project based on Python Django framework
 
 ## SECOND HALF
+- Handson with first half tryouts
 - Reading Links
 - Reading & understanding the previous project
 
