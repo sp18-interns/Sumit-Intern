@@ -6,7 +6,9 @@
 
 - Django Rest Tryouts by Udemy Boot Camp
 - [Tryout](https://github.com/sp18-interns/Sumit-Intern/tree/main/Django_project/tryout_movie_db)
-
+- Hands-on for creating Http json response for
+	- individual element
+	- all elements
 
 - Project assigned for passbook
 - 
@@ -17,7 +19,11 @@
 
 ## SECOND HALF
 - Handson with first half tryouts
-![alt text](a.png?raw=true)
+![alt text](json_response_all_elements.png?raw=true)
+![alt text](json_response_individual_1.png?raw=true)
+![alt text](json_response_individual_2.png?raw=true)
+![alt text](json_response_individual_3.png?raw=true)
+
 - Reading Links
 - Reading & understanding the previous project
 
