@@ -4,7 +4,7 @@ from django.core.validators import MinLengthValidator, MaxLengthValidator, MinVa
 
 class Movie(models.Model):
     name = models.CharField(max_length=50)
-    description = models.TextField(max_length=255)
+    description = models.CharField(max_length=255)
     active = models.BooleanField(default=True)
 
     def __str__(self):
