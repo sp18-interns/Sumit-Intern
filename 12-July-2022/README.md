@@ -17,7 +17,7 @@
 ## LINK READ
 - Previous passbook project based on Python Django framework
 -  ✅ [Serializer](https://www.django-rest-framework.org/tutorial/1-serialization/)
--  ✅ [Serializer](https://www.django-rest-framework.org/api-guide/views/)
+-  ✅ [View](https://www.django-rest-framework.org/api-guide/views/)
 
 ## SECOND HALF
 - Handson with first half tryouts
