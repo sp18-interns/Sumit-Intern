@@ -21,7 +21,7 @@
 
 ## SECOND HALF
 - Handson with first half tryouts
-
+- Read About CookieCutter For Django
 - Reading Links
 - Reading & understanding the previous project
 
