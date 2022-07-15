@@ -5,10 +5,10 @@
 ## FIRST HALF
 
 - Django cookiecutter Tryouts by Udemy Boot Camp
-- [Tryout](https://github.com/sp18-interns/Sumit-Intern/tree/main/Django_project/tryout_movie_db)
+- [Tryout](https://github.com/sp18-interns/Sumit-Intern/tree/main/Cookiecutter)
 - Hands-on for creating Cookie Cutter Django
 ```
-	- Vocab to Know for cookiecutter or Genral Purpose
+	- Vocab to Know for cookiecutter
 		- bootstrap a project : to load a program into a computer using a much smaller initial program to load in the desired program
 		- project_slug: Your project’s slug without dashes or spaces. Used to name your repo and in other places where a Python-importable 		version of your project name is needed.
 		- use_async: Indicates whether the project should use web sockets with Uvicorn + Gunicorn.(Uvicorn is an ASGI web server implementation for Python)
