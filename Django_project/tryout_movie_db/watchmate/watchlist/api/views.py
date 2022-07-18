@@ -4,6 +4,7 @@ from watchlist.api.serializers import MovieSerializers
 from watchlist.models import Movie
 from rest_framework.decorators import api_view
 from django.core.exceptions import ObjectDoesNotExist
+from rest_framework_swagger.views import get_swagger_view
 
 @api_view(['GET', 'POST'])
 def movie_list(request):
