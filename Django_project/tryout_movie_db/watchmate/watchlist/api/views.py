@@ -1,8 +1,9 @@
 from rest_framework.response import Response
+from rest_framework import status
 from watchlist.api.serializers import MovieSerializers
 from watchlist.models import Movie
 from rest_framework.decorators import api_view
-
+from django.core.exceptions import ObjectDoesNotExist
 
 @api_view(['GET', 'POST'])
 def movie_list(request):
@@ -24,7 +25,12 @@ def movie_list(request):
 @api_view(['GET', 'PUT', 'DELETE'])
 def movie_details(request, pk):
     if request.method == 'GET':
-        movie = Movie.objects.get(pk=pk)
+        try:
+            movie = Movie.objects.get(pk=pk)
+        except ObjectDoesNotExist:
+            return Response({'Error': 'Movie Not Found'}, status=status.HTTP_404_NOT_FOUND)
+
+
         serializer = MovieSerializers(movie)
         return Response(serializer.data)
 
@@ -33,11 +39,11 @@ def movie_details(request, pk):
         serializer = MovieSerializers(movie, data=request.data)
         if serializer.is_valid():
             serializer.save()
-            return Response(serializer.data)
+            return Response(serializer.data, status=status.HTTP_400_BAD_REQUEST)
         else :
             return Response(serializer.errors)
 
     if request.method =='DELETE':
         movie = Movie.objects.get(pk=pk)
         movie.delete()
-        return Response()
+        return Response(status=status.HTTP_204_NO_CONTENT)
