@@ -22,6 +22,9 @@
 
 ## SECOND HALF
 - Handson with first half tryouts
+![alt text](object_level_validation.png?raw=true)
+![alt text](status_code_204.png?raw=true)
+![alt text](status_code_404.png?raw=true)
 - Read About CookieCutter For Django
 - Reading Links
 - Reading & understanding the previous project
