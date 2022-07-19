@@ -2,11 +2,16 @@ from rest_framework.response import Response
 from rest_framework import status
 from watchlist.api.serializers import MovieSerializers
 from watchlist.models import Movie
-from rest_framework.decorators import api_view
+from rest_framework.decorators import api_view, authentication_classes, permission_classes
 from django.core.exceptions import ObjectDoesNotExist
-from rest_framework_swagger.views import get_swagger_view
+from rest_framework.authentication import BasicAuthentication, SessionAuthentication
+from rest_framework.permissions import IsAuthenticated
+
+
 
 @api_view(['GET', 'POST'])
+@authentication_classes([SessionAuthentication])
+@permission_classes([IsAuthenticated])
 def movie_list(request):
 
     if request.method == 'GET':
@@ -38,6 +43,7 @@ def movie_details(request, pk):
     if request.method =='PUT':
         movie = Movie.objects.get(pk=pk)
         serializer = MovieSerializers(movie, data=request.data)
+
         if serializer.is_valid():
             serializer.save()
             return Response(serializer.data, status=status.HTTP_400_BAD_REQUEST)
