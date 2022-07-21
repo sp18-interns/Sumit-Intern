@@ -1,0 +1,43 @@
+{
+  "project_name": "SP18",
+  "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
+  "description": "Boilerplate!",
+  "author_name": "SP18_Intern Team",
+  "domain_name": "sparkeighteen.com",
+  "email": "{{ cookiecutter.author_name.lower()|replace(' ', '-') }}@example.com",
+  "version": "0.1.0",
+  "timezone": "UTC",
+  "windows": "n",
+  "use_pycharm": "n",
+  "use_docker": "n",
+  "postgresql_version": [
+    "14",
+    "13",
+    "12",
+    "11",
+    "10"
+  ],
+  "cloud_provider": [
+    "AWS",
+    "GCP",
+    "None"
+  ],
+  "mail_service": [
+    "Mailgun",
+    "Amazon SES",
+    "Mailjet",
+    "Mandrill",
+    "Postmark",
+    "Sendgrid",
+    "SendinBlue",
+    "SparkPost",
+    "Other SMTP"
+  ],
+  "use_drf": "n",
+  "ci_tool": [
+    "Gitlab",
+    "Github"
+  ],
+  "keep_local_envs_in_vcs": "y",
+  "debug": "n"
+}
