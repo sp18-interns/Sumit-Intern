@@ -8,6 +8,8 @@
 - [Tryout](https://github.com/sp18-interns/Sumit-Intern/tree/main/Django_project/tryout_movie_db)
 - Hands-on -
 	-  Token Authentication
+		- Access token
+		- Refresh token
 	
 - Read about Jwt Token Authentication
 - Project assigned 'Restaurent management System'
