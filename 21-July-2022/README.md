@@ -9,8 +9,10 @@
 - Hands-on -
 	-  Token Authentication
 	- Jwt Authentication
+		- Access token
+		- Refresh token
 	
-- Read about Jwt Token Authentication
+- Read about [Jwt Token Authentication](jwt.io) 
 - Project assigned 'Restaurent management System'
 
 
