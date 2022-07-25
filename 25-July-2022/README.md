@@ -11,7 +11,7 @@
 - Read about [Jwt Token Authentication](jwt.io) 
 - Project assigned 'Restaurent management System'
  	- Started Writing Models[Tryouts](https://github.com/sp18-interns/Sumit-Intern/tree/main/restaurant)
-![alt text](restaurant.png?raw=true)
+![alt text](https://github.com/sp18-interns/Sumit-Intern/blob/main/Images/restaurant.png?raw=true)
 - Started with Serializers
 
 
