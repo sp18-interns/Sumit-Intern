@@ -7,8 +7,8 @@
 - Django Rest Tryouts by Udemy Boot Camp
 - [Tryout](https://github.com/sp18-interns/Sumit-Intern/tree/main/Django_project/tryout_movie_db)
 - Hands-on -
-- Project assigned 'Restaurent management System'
- 	- Working with User Login Page
+- Project assigned 'Restaurent management System' [Tryout](https://github.com/sp18-interns/Sumit-Intern/tree/main/restaurant)
+ 	- Working with User Login Page 
 
 ## LINK READ
 - Read about [Jwt Token Authentication](jwt.io) 
