@@ -96,4 +96,3 @@ class RecipeDetail(APIView):
             raise Http404
         recipe.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)
-

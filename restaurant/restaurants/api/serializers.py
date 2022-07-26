@@ -31,7 +31,7 @@ class RecipeSerializer(serializers.ModelSerializer):
 
     def create(self, validated_data):
         """
-        Create function for recipes, a restaurant and a list of ingredients is asociated. The restaurantId
+        function for recipes, a restaurant and a list of ingredients is asociated. The restaurantId
         is taken from the corresponding path parameter and the ingredients can be added optionally in the post body.
         """
         ingredients_data = validated_data.pop("ingredients")
@@ -50,4 +50,4 @@ class RecipeSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = models.Recipe
-        fields = ['id', 'name', 'type', 'thumbnail', 'ingredients']
+        fields = ['id', 'name', 'type', 'ingredients']
